@@ -8,6 +8,10 @@ public class NewProjectClass {
 		System.out.println("Hi");
 		System.out.println("Hi hello hi hello hi hello");
 		System.out.println("Hi");
+		System.out.println("Hi hello hi hello hi hello");
+		System.out.println("Hi");
+		System.out.println("Hi hello hi hello hi hello");
+		System.out.println("Hi");
 
 	}
 
