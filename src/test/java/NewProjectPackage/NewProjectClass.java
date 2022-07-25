@@ -6,6 +6,8 @@ public class NewProjectClass {
 		// TODO Auto-generated method stub
 		System.out.println("Hi hello hi hello hi hello");
 		System.out.println("Hi");
+		System.out.println("Hi hello hi hello hi hello");
+		System.out.println("Hi");
 
 	}
 
