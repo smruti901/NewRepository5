@@ -13,7 +13,7 @@ pipeline {
                 //sh "mvn -Dmaven.test.failure.ignore=true clean package"
 
                 // To run Maven on a Windows agent, use
-                bat "mvn -fNewProject/pom.xml"
+                bat "mvn -f/NewProject/pom.xml"
             }
 
             
